@@ -1,5 +1,4 @@
 # Kamijo Notes
 
-- [readme](/README.MD)
-- [testmd](/test.md)
-- [test](/test)
+- [readme](/README.md)
+- [test](/test.md)
