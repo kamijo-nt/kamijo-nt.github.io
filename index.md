@@ -4,7 +4,7 @@
 
 [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-Now  - Git
+Now  - Git  
 Next - SSH
 
 ## Study Notes
@@ -16,6 +16,6 @@ Next - SSH
 ```log
 
 -2019-
-・07/23 created
+ 07/23 created
 
 ```
