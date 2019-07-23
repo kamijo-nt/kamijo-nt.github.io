@@ -9,9 +9,9 @@ Next - SSH
 
 ## Study Notes
 
-- [Git](/git.md)
+- [Git](/study/git.md)
 
 ## Log
 
 - 2019
-- - 07/23 ~ created
+- 07/23 created
