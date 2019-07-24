@@ -9,7 +9,7 @@ Next - SSH
 
 ## Study Notes
 
-- [Git](../study/git)
+- [Git](../study/git.md)
 - [Term](../study/term.md)
 
 ## Log
