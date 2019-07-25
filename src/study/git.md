@@ -159,7 +159,7 @@ git commit --amend
 
 ローカルリポジトリをリモートリポジトリにアップロードする。
 
-```
+```bash
 
 git push origin master
 
