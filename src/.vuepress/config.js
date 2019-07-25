@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Kamijo Notes',
+  title: "Kamijo's Notes",
   description: '勉強記録',
   locales: {
     '/': {
